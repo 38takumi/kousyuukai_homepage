@@ -1,12 +1,19 @@
 @charset "UTF-8";
 
+.center {
+    text-align: center;
+}
 
 .card_box {
-  display: inline-block;
+  display: flex;
 }
 
 
-.content
+.content {
+  
+}
 
 
-.content_info
+.content_info {
+  list-style-type: none;
+}
